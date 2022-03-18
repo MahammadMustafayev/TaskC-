@@ -1,0 +1,14 @@
+C:\Users\tu7ekdm78\Desktop\Task Homework\Abstract\Abstract\bin\Debug\netcoreapp3.1\Abstract.exe
+C:\Users\tu7ekdm78\Desktop\Task Homework\Abstract\Abstract\bin\Debug\netcoreapp3.1\Abstract.deps.json
+C:\Users\tu7ekdm78\Desktop\Task Homework\Abstract\Abstract\bin\Debug\netcoreapp3.1\Abstract.runtimeconfig.json
+C:\Users\tu7ekdm78\Desktop\Task Homework\Abstract\Abstract\bin\Debug\netcoreapp3.1\Abstract.runtimeconfig.dev.json
+C:\Users\tu7ekdm78\Desktop\Task Homework\Abstract\Abstract\bin\Debug\netcoreapp3.1\Abstract.dll
+C:\Users\tu7ekdm78\Desktop\Task Homework\Abstract\Abstract\bin\Debug\netcoreapp3.1\Abstract.pdb
+C:\Users\tu7ekdm78\Desktop\Task Homework\Abstract\Abstract\obj\Debug\netcoreapp3.1\Abstract.csproj.AssemblyReference.cache
+C:\Users\tu7ekdm78\Desktop\Task Homework\Abstract\Abstract\obj\Debug\netcoreapp3.1\Abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu7ekdm78\Desktop\Task Homework\Abstract\Abstract\obj\Debug\netcoreapp3.1\Abstract.AssemblyInfoInputs.cache
+C:\Users\tu7ekdm78\Desktop\Task Homework\Abstract\Abstract\obj\Debug\netcoreapp3.1\Abstract.AssemblyInfo.cs
+C:\Users\tu7ekdm78\Desktop\Task Homework\Abstract\Abstract\obj\Debug\netcoreapp3.1\Abstract.csproj.CoreCompileInputs.cache
+C:\Users\tu7ekdm78\Desktop\Task Homework\Abstract\Abstract\obj\Debug\netcoreapp3.1\Abstract.dll
+C:\Users\tu7ekdm78\Desktop\Task Homework\Abstract\Abstract\obj\Debug\netcoreapp3.1\Abstract.pdb
+C:\Users\tu7ekdm78\Desktop\Task Homework\Abstract\Abstract\obj\Debug\netcoreapp3.1\Abstract.genruntimeconfig.cache
